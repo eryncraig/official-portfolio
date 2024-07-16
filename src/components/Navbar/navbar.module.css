@@ -21,6 +21,10 @@
   display: flex;
 }
 
+.menuBtn {
+  display: none;
+}
+
 .menuItems {
   display: flex;
   gap: 47px;

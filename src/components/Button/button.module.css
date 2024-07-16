@@ -1,0 +1,26 @@
+@import '../../vars.css';
+
+.button {
+  /* display: block; */
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  width: 25px;
+  height: 25px;
+  padding: auto;
+  z-index: 99;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  background-color: var(--color-primary);
+  color: var(--color-text);
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.buttonIcon {
+  padding: 2px;
+  margin: 2px;
+  align-items: center;
+  justify-content: center;
+}
