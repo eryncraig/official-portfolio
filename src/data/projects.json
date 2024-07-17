@@ -1,39 +1,39 @@
 [
   {
-    "title": "Project A",
+    "title": "Cartoon Database",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": [
-      "React",
-      "Express",
-      "Node"
-    ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to better understand integrating a client side and API",
     "skills": [
       "React",
       "Express",
       "Node",
-      "Sass"
+      "MongoDB"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://cartoondb.netlify.app/login",
+    "source": "https://github.com/eryncraig/cartoonDB-client"
   },
   {
-    "title": "Project C",
+    "title": "Pokemon Index",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This project was made to learn Javascript and understand fundamentals.",
     "skills": [
-      "React",
-      "Express",
-      "Node"
+      "Javascript",
+      "Bootstrap",
+      "jQuery"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://eryncraig.github.io/Pokemon-Index/",
+    "source": "https://github.com/eryncraig/Pokemon-Index"
+  },
+  {
+    "title": "HTML Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A project made to demonstrate my understanding of basic HTML5 and CSS.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "demo": "https://eryncraig.github.io/HTML-portfolio/contact.html",
+    "source": "https://github.com/eryncraig/HTML-portfolio"
   }
 ]

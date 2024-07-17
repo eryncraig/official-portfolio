@@ -13,8 +13,8 @@ export const ProjectCard = ({ project: { title, imageSrc, description, skills, d
           return <li className={styles.skill} key={id}>{skill}</li>
         })}</ul>
       <div className={styles.links}>
-        <a className={styles.link} href={demo}>Demo</a>
-        <a className={styles.link} href={source}>Source</a>
+        <a className={styles.link} href={demo} target='_blank'>Demo</a>
+        <a className={styles.link} href={source} target='_blank'>Source</a>
       </div>
     </div>
   );

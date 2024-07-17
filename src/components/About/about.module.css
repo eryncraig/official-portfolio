@@ -29,6 +29,8 @@
 .aboutImage {
   width: 35%;
   z-index: 1;
+  border-radius: 50%;
+  margin-right: 25px;
 }
 
 
