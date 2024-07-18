@@ -30,12 +30,14 @@
   align-items: flex-start;
   list-style: none;
   gap: 26px;
+  margin: 0 25px;
 }
 
 .link {
   display: flex;
   align-items: center;
   gap: 25px;
+  padding-right: 10px;
 }
 
 .link a {

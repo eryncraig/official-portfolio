@@ -14,6 +14,7 @@
   flex-direction: column;
   gap: 8px;
   padding: 10px;
+  margin-right: 10%;
 }
 
 .name, .email, .message, .button, .captcha {
@@ -42,9 +43,6 @@
 }
 
 .captcha {
-  margin-right: 85px;
-  margin-left: -5px;
-  align-items: center;
   margin: 0 auto;
 }
 
