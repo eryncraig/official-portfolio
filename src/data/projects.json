@@ -1,7 +1,7 @@
 [
   {
     "title": "Cartoon Database",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/cartoonDB.png",
     "description": "This is a project made to integrate a client side and API",
     "skills": [
       "React",
@@ -14,7 +14,7 @@
   },
   {
     "title": "Pokemon Index",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/pokeDex.png",
     "description": "This project was made to learn Javascript and understand fundamentals.",
     "skills": [
       "Javascript",
@@ -26,7 +26,7 @@
   },
   {
     "title": "HTML Portfolio",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/htmlsite.png",
     "description": "A project made to demonstrate my understanding of basic HTML5 and CSS.",
     "skills": [
       "HTML",
@@ -35,5 +35,29 @@
     ],
     "demo": "https://eryncraig.github.io/HTML-portfolio/contact.html",
     "source": "https://github.com/eryncraig/HTML-portfolio"
+  },
+  {
+    "title": "To-Do List App",
+    "imageSrc": "projects/todoList.png",
+    "description": "A project made to demonstrate use of jQuery.",
+    "skills": [
+      "jQuery",
+      "Javascript",
+      "CSS"
+    ],
+    "demo": "https://eryncraig.github.io/todo-list/",
+    "source": "https://github.com/eryncraig/todo-list"
+  },
+  {
+    "title": "Cartoon API",
+    "imageSrc": "projects/project.png",
+    "description": "This project was made as the backend for my Cartoon Database (no demo).",
+    "skills": [
+      "HTML",
+      "noSQL",
+      "MongoDB",
+      "Javascript"
+    ],
+    "source": "https://github.com/eryncraig/cartoonAPI"
   }
 ]

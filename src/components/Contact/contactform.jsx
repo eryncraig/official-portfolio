@@ -48,7 +48,7 @@ export const ContactForm = () => {
       </form>
       <div>
         <p className={styles.form}>
-          If the above form does not work, you can email me at: <ObfuscatedEmail />
+          If the above form does not work, you can email or contact me via the following links.
         </p>
       </div>
     </div>

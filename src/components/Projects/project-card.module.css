@@ -1,21 +1,31 @@
 @import '../../vars.css';
 
+.cardWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; /* Adjust the gap between cards */
+}
+
 .container {
   display: flex;
   flex-direction: column;
   border-radius: 10px;
+  justify-content: space-between;
   background: linear-gradient(180deg, #6357bc 0%, #1b1353 100%);
   box-shadow: 0 16px 14px 0 #10042d;
   padding: 18px 24px;
   max-width: 345px;
+  min-height: 400px;
+  flex: 1 1 calc(33.333% - 16px);
 }
 
 .image {
   margin-bottom: 26px;
+  border-radius: 10px;
 }
 
 .title {
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 700;
 }
 
