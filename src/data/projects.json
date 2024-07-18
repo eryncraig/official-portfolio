@@ -2,7 +2,7 @@
   {
     "title": "Cartoon Database",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to better understand integrating a client side and API",
+    "description": "This is a project made to integrate a client side and API",
     "skills": [
       "React",
       "Express",
