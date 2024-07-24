@@ -26,7 +26,7 @@
   },
   {
     "title": "Cybersecurity Portfolio",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/google.png",
     "description": "This is my portfolio for cybersecurity, stored on Github. These are files and have no demo.",
     "skills": [
       "SQL",
